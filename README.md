@@ -1,4 +1,4 @@
-## Hi I'm Mohamad Amin 👋
+## Hi I'm MohamadAmin 👋
 
 Backend Developer using Django & DRF.
 
