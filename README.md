@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi I'm Mohamad Amin 👋
 
-<!--
-**Mohhamadaminn/Mohhamadaminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer using Django & DRF.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Backend Developer (Django / DRF)
+- Currently improving API design, system architecture, and backend scalability
+- Learning more backend concepts including caching, system design and etc
+- Goal: Become a strong backend engineer and build production-ready systems
+
+---
+
+## 🧰 Tech Stack
+
+**Backend:**
+- Python, Django, Django REST Framework
+
+**Database:**
+- PostgreSQL, SQLite
+
+**Tools & DevOps:**
+- Docker, Git, GitHub
+
+---
+
+## 📌 Featured Projects
+
+- FastFood POS System (Django)
+- API Key Authentication System (DRF)
+- BookStore Project (Django)
+
+---
+
+## 📈 Current Focus
+
+- Django Rest Framework (DRF)
+- API Design & Security
+- Backend system architecture
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mohamadamin-alizadeh
+- Email: mohamadamin1alizadeh@gmial.com
