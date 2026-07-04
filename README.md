@@ -9,7 +9,6 @@ Backend Developer using Django & DRF.
 - Backend Developer (Django / DRF)
 - Currently improving API design, system architecture, and backend scalability
 - Learning more backend concepts including caching, system design and etc
-- Goal: Become a strong backend engineer and build production-ready systems
 
 ---
 
