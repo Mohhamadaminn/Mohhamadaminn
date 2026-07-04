@@ -44,4 +44,3 @@ Backend Developer using Django & DRF.
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/mohamadamin-alizadeh
-- Email: mohamadamin1alizadeh@gmial.com
