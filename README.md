@@ -21,7 +21,7 @@ Backend Developer using Django & DRF.
 - PostgreSQL, SQLite
 
 **Tools & DevOps:**
-- Docker, Git, GitHub
+- Docker, Git
 
 ---
 
